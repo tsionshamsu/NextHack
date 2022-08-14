@@ -67,7 +67,7 @@ Finally, you can open the [ethmap.html](https://github.com/tsionshamsu/NextHack/
 
 - [@benealshamsu](https://github.com/benLBrook)
 - [@tsionshamsu](https://www.github.com/tsionshamsu)
-- [@rediatshamsu]
+- [@rediatshamsu](https://www.github.com/rediatbrook)
 
 
 ## License
