@@ -3,7 +3,7 @@
 ## Curbing Malnutrition one place at a time
 Is a web application tool to visualize and provide donations to places
 affected by [Severe Acute
-Malnution](https://apps.who.int/nutrition/topics/severe_malnutrition/en/index.html)
+Malnutrition](https://apps.who.int/nutrition/topics/severe_malnutrition/en/index.html)
    in Ethiopia.
 
 ## Table of contents
