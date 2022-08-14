@@ -30,6 +30,11 @@ NGO Name: %s
 <a href="https://www.google.com/maps/search/?api=1&query=%s,%s" target="_blank">NGO Address</a><br>
 PCODE: %s 
 Cumulative: %s 
+Major Donation Sites: <br><a href="https://crisisrelief.un.org/ethiopia-crisis" target="_blank">Donate to the UN!</a><br>
+<a href="https://www.care.org/get-involved/ways-to-give/" target="_blank">Donate to Care International!</a><br>
+<a href="https://www.actionagainsthunger.org/countries/africa/ethiopia" target="_blank">Donate to Action Against Hunger!</a><br>
+<a href="https://www.fh.org/causes/where-needed-most/" target="_blank">Donate to Food for the Hungry!</a>
+
 """
  
 def cool(numofsam):
