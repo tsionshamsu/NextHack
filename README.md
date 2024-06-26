@@ -1,4 +1,4 @@
-# Charisoft/GiveConnect
+# GiveConnect
 
 ## Curbing Malnutrition one place at a time
 Is a web application tool to visualize and provide donations to places
